@@ -1,0 +1,17 @@
+# Configuration for git attributes
+# Generated on 2026-11-10
+*.js linguist-detectable
+
+*.gif binary
+*.yaml linguist-detectable=false
+vendor/* linguist-vendored
+**/*.js linguist-detectable
+
+*.json linguist-detectable=false
+node_modules/* linguist-vendored
+
+*.ico binary
+public/**/*.html linguist-vendored
+*.woff2 binary
+
+# eof b52d2fa5
