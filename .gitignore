@@ -1,0 +1,8 @@
+.next/
+dist/
+*.tgz
+yarn-error.log*
+.DS_Store
+build/
+*.log
+_site/
